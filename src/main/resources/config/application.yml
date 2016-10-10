@@ -1,0 +1,11 @@
+# Email (MailProperties)
+spring:
+  mail:
+    default-encoding: UTF-8
+    host: smtp.sendgrid.net
+    port: 587
+    protocol: smtp
+    test-connection: false
+    username: vmwareteam7
+    password: VMware1!
+    
